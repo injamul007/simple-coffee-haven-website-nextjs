@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Espresso",
+    "description": "Rich, bold single shot espresso with perfect crema. Made from premium Italian beans with notes of dark chocolate and caramel.",
+    "price": 320,
+    "category": "Espresso",
+    "brand": "Coffee Haven",
+    "inStock": true,
+    "stockCount": 50,
+    "rating": 4.9,
+    "reviewCount": 324,
+    "image": "https://images.unsplash.com/photo-1510707577719-ae7c14805e3a?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1510707577719-ae7c14805e3a?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1447933601403-0c6688de566e?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
+    ],
+    "features": [
+      "Single-origin Italian beans",
+      "Perfect crema layer",
+      "Dark chocolate notes",
+      "Caramel undertones",
+      "Freshly ground",
+      "Served at optimal temperature"
+    ],
+    "specifications": {
+      "Bean Origin": "Italy",
+      "Roast Level": "Dark",
+      "Caffeine Content": "63mg",
+      "Serving Size": "30ml",
+      "Brewing Time": "25-30 seconds",
+      "Grind Size": "Fine"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Double Shot Espresso",
+    "description": "Intense double shot espresso for the true coffee connoisseur. Double the strength, double the flavor.",
+    "price": 450,
+    "category": "Espresso",
+    "brand": "Coffee Haven",
+    "inStock": true,
+    "stockCount": 45,
+    "rating": 4.8,
+    "reviewCount": 256,
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
+    ],
+    "features": [
+      "Double shot intensity",
+      "Premium bean blend",
+      "Rich crema",
+      "Bold flavor profile",
+      "Perfect for espresso lovers"
+    ],
+    "specifications": {
+      "Bean Origin": "Italy/Brazil",
+      "Roast Level": "Dark",
+      "Caffeine Content": "126mg",
+      "Serving Size": "60ml",
+      "Brewing Time": "25-30 seconds",
+      "Grind Size": "Fine"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Creamy Cappuccino",
+    "description": "Perfect balance of espresso, steamed milk, and velvety microfoam. Topped with artistic latte art.",
+    "price": 550,
+    "category": "Cappuccino",
+    "brand": "Coffee Haven",
+    "inStock": true,
+    "stockCount": 40,
+    "rating": 4.8,
+    "reviewCount": 203,
+    "image": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1572442388796-11668a67e53d?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
+    ],
+    "features": [
+      "Perfect milk foam",
+      "Artistic latte art",
+      "Italian tradition",
+      "Balanced flavor",
+      "Premium whole milk",
+      "Expert preparation"
+    ],
+    "specifications": {
+      "Milk Type": "Whole milk",
+      "Foam Thickness": "1cm",
+      "Temperature": "65-70°C",
+      "Espresso Shots": "1",
+      "Serving Size": "180ml",
+      "Preparation Time": "3-4 minutes"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Dry Cappuccino",
+    "description": "Traditional cappuccino with extra foam and less steamed milk. Perfect for those who love a stronger coffee taste.",
+    "price": 520,
+    "category": "Cappuccino",
+    "brand": "Coffee Haven",
+    "inStock": true,
+    "stockCount": 35,
+    "rating": 4.7,
+    "reviewCount": 178,
+    "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
+    ],
+    "features": [
+      "Extra thick foam",
+      "Less steamed milk",
+      "Stronger coffee flavor",
+      "Traditional Italian style",
+      "Perfect texture"
+    ],
+    "specifications": {
+      "Milk Type": "Whole milk",
+      "Foam Thickness": "2.5cm",
+      "Temperature": "65-70°C",
+      "Espresso Shots": "1",
+      "Serving Size": "150ml",
+      "Preparation Time": "3-4 minutes"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Smooth Latte",
+    "description": "Silky smooth latte with perfectly steamed milk and gentle coffee flavor. Ideal for those who prefer a milder taste.",
+    "price": 480,
+    "category": "Latte",
+    "brand": "Coffee Haven",
+    "inStock": true,
+    "stockCount": 42,
+    "rating": 4.7,
+    "reviewCount": 189,
+    "image": "https://images.unsplash.com/photo-1561882468-9110e03e0f78?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1561882468-9110e03e0f78?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
+    ],
+    "features": [
+      "Silky smooth texture",
+      "Mild coffee flavor",
+      "Perfect for beginners",
+      "Steamed to perfection",
+      "Customizable sweetness"
+    ],
+    "specifications": {
+      "Milk Type": "Whole milk",
+      "Foam Thickness": "0.5cm",
+      "Temperature": "60-65°C",
+      "Espresso Shots": "1",
+      "Serving Size": "240ml",
+      "Preparation Time": "4-5 minutes"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Iced Americano",
+    "description": "Refreshing iced americano made with freshly pulled espresso shots and cold water. Perfect for hot summer days.",
+    "price": 380,
+    "category": "Americano",
+    "brand": "Coffee Haven",
+    "inStock": true,
+    "stockCount": 38,
+    "rating": 4.6,
+    "reviewCount": 154,
+    "image": "https://images.unsplash.com/photo-1680327284937-1e1cb66c3ac7?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "images": [
+      "https://images.unsplash.com/photo-1517668808822-9ebb02ae2a0e?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
+    ],
+    "features": [
+      "Freshly pulled espresso",
+      "Ice-cold serving",
+      "Refreshing taste",
+      "Summer favorite",
+      "Quick preparation"
+    ],
+    "specifications": {
+      "Temperature": "4-8°C",
+      "Espresso Shots": "2",
+      "Ice Type": "Premium ice",
+      "Serving Size": "300ml",
+      "Water": "Hot water diluted",
+      "Preparation Time": "2-3 minutes"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Premium Mocha",
+    "description": "Luxurious blend of espresso, steamed milk, and rich chocolate. A perfect treat for chocolate and coffee lovers alike.",
+    "price": 650,
+    "category": "Mocha",
+    "brand": "Coffee Haven",
+    "inStock": true,
+    "stockCount": 28,
+    "rating": 4.9,
+    "reviewCount": 267,
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1578985545062-69928b1d9587?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
+    ],
+    "features": [
+      "Rich chocolate blend",
+      "Premium espresso",
+      "Velvety milk texture",
+      "Whipped cream topping",
+      "Decadent flavor"
+    ],
+    "specifications": {
+      "Chocolate Type": "Premium dark chocolate",
+      "Milk Type": "Whole milk",
+      "Espresso Shots": "1",
+      "Serving Size": "200ml",
+      "Temperature": "65-70°C",
+      "Preparation Time": "4-5 minutes"
+    }
+  }
+]
