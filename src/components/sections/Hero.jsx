@@ -34,13 +34,13 @@ export default function Hero() {
           {/* CTAs */}
           <div className="flex flex-col sm:flex-row gap-4 sm:gap-6 justify-center items-stretch sm:items-center">
             <Link
-              href="/items"
+              href="/coffee-menu"
               className="btn-primary text-base sm:text-lg px-6 sm:px-10 py-3 sm:py-4 w-full sm:w-auto"
             >
               Explore Menu
             </Link>
             <Link
-              href="#features"
+              href="/learn-more"
               className="btn-secondary text-base sm:text-lg px-6 sm:px-10 py-3 sm:py-4 w-full sm:w-auto bg-cream-50/20 text-cream-50 border-cream-50/30 hover:bg-cream-50/30"
             >
               Learn More
