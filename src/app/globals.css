@@ -20,7 +20,7 @@
 
 @layer components {
   .btn-primary {
-    @apply bg-coffee-700 hover:bg-coffee-800 text-cream-50 font-medium py-3 px-6 rounded-full transition-all duration-300 shadow-lg hover:shadow-xl;
+    @apply bg-coffee-700 hover:bg-coffee-800 text-cream-50 font-medium py-2 px-6 rounded-full transition-all duration-300 shadow-lg hover:shadow-xl;
   }
 
   .btn-secondary {
