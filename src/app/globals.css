@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+    width: 100%;
+  }
+
+  body {
+    @apply bg-cream-50 text-coffee-900;
+    overflow-x: hidden;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-coffee-700 hover:bg-coffee-800 text-cream-50 font-medium py-3 px-6 rounded-full transition-all duration-300 shadow-lg hover:shadow-xl;
+  }
+
+  .btn-secondary {
+    @apply bg-cream-100 hover:bg-cream-200 text-coffee-800 font-medium py-3 px-6 rounded-full transition-all duration-300 border border-coffee-300;
+  }
+
+  .card {
+    @apply bg-white rounded-2xl shadow-lg p-6 border border-cream-200 hover:shadow-xl transition-shadow duration-300;
+  }
+
+  .section-padding {
+    @apply py-20 px-4 sm:px-6 lg:px-8 w-full overflow-x-hidden;
+  }
+
+  .coffee-gradient {
+    @apply bg-gradient-to-br from-coffee-800 via-coffee-700 to-coffee-600;
+  }
+
+  .cream-gradient {
+    @apply bg-gradient-to-br from-cream-100 to-cream-200;
+  }
+}
