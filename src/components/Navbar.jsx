@@ -76,16 +76,16 @@ export default function Navbar() {
               Home
             </Link>
             <Link
-              href="/coffee-items"
+              href="/coffee-menu"
               className="text-coffee-700 hover:text-coffee-800 px-3 py-2 rounded-md text-sm font-medium transition-colors"
             >
-              Coffee Items
+              Coffee Menu
             </Link>
 
             {isAuthenticated ? (
               <div className="flex items-center space-x-4">
                 <Link
-                  href="/add-item"
+                  href="/add-coffee"
                   className="text-coffee-700 hover:text-coffee-800 px-3 py-2 rounded-md text-sm font-medium transition-colors"
                 >
                   Add Coffee
